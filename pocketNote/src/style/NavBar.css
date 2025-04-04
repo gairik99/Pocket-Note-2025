@@ -1,0 +1,23 @@
+.responsive-button {
+  padding: 0.6rem;
+  background: #ecfeff;
+  color: #1e293b;
+  font-weight: bold;
+  border: 2px solid #1e40af;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 40px;
+  height: 40px;
+  display: none; /* Hidden by default */
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  font-size: 1.4rem;
+}
+
+@media (max-width: 768px) {
+  .responsive-button {
+    display: flex; /* Show only when screen size <= 768px */
+  }
+}
