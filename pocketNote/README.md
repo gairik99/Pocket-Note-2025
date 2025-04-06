@@ -14,7 +14,6 @@ Perfectly adapted for mobile and desktop views
 
 🖼 Media Uploads
 Cloudinary integration for profile pictures and custom banners
-    
 
 🛠 Tech Stack
 Frontend
@@ -54,8 +53,8 @@ Ensure you have the following installed:
 -   npm or yarn
   
 ###  Clone Repository
- git clone https://github.com/your-username/.git
- cd SPARK  
+ git clone git@github.com:gairik99/Pocket-Note-2025.git
+
  
 ### Install Dependencies
 npm install
